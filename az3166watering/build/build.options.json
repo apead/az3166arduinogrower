@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..,..\\..\\..\\..",
+  "builtInLibrariesFolders": "D:\\Arduino\\libraries",
+  "builtInToolsFolders": "D:\\Arduino\\tools-builder,D:\\Arduino\\hardware\\tools\\avr,C:\\Users\\apead\\AppData\\Local\\Arduino15\\packages",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.path=f:\\IoT\\az3166watering\\build,build.warn_data_percentage=75,runtime.tools.openocd.path=C:\\Users\\apead\\AppData\\Local\\Arduino15\\packages\\AZ3166\\tools\\openocd\\0.10.0,runtime.tools.openocd-0.10.0.path=C:\\Users\\apead\\AppData\\Local\\Arduino15\\packages\\AZ3166\\tools\\openocd\\0.10.0,runtime.tools.arm-none-eabi-gcc.path=C:\\Users\\apead\\AppData\\Local\\Arduino15\\packages\\AZ3166\\tools\\arm-none-eabi-gcc\\5_4-2016q3,runtime.tools.arm-none-eabi-gcc-5_4-2016q3.path=C:\\Users\\apead\\AppData\\Local\\Arduino15\\packages\\AZ3166\\tools\\arm-none-eabi-gcc\\5_4-2016q3",
+  "fqbn": "AZ3166:stm32f4:MXCHIP_AZ3166:upload_method=OpenOCDMethod",
+  "hardwareFolders": "D:\\Arduino\\hardware,C:\\Users\\apead\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\apead\\OneDrive\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10813",
+  "sketchLocation": "f:\\IoT\\az3166watering\\az3166watering.ino"
+}

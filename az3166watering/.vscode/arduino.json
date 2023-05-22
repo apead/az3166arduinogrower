@@ -1,0 +1,7 @@
+{
+    "configuration": "upload_method=OpenOCDMethod",
+    "board": "AZ3166:stm32f4:MXCHIP_AZ3166",
+    "sketch": "az3166watering.ino",
+    "port": "COM8",
+    "output": "./build"
+}
